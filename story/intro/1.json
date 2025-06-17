@@ -1,0 +1,35 @@
+{
+	"format": "particle",
+	"title": "Go in the Zone",
+	"content": [
+		{
+			"type": "paragraph",
+			"text": "\"What brought you out here, anyway?\"",
+			"style": {
+				"text-align": "center"
+			}
+		},
+		{
+			"type": "paragraph",
+			"text": "He fixes you with an interested look.",
+			"style": {
+				"text-align": "center"
+			}
+		},
+		{
+			"type": "button",
+			"label": "Treasure.",
+			"action": "/story/intro/1"
+		},
+		{
+			"type": "button",
+			"label": "Adventure.",
+			"action": "/story/intro/1"
+		},
+		{
+			"type": "button",
+			"label": "Your own reasons.",
+			"action": "/story/intro/1"
+		}
+	]
+}

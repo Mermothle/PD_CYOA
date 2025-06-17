@@ -1,0 +1,36 @@
+{
+	"format": "particle",
+	"title": "Go in the Zone",
+	"content": [
+		{
+			"type": "paragraph",
+			"text": "*=== GO IN THE ZONE ===*",
+			"style": {
+				"text-align": "center",
+				"margin-bottom": 30
+			}
+		},
+		{
+			"type": "paragraph",
+			"text": "This is a basic interactive story for Constellation. Choose your own adventure!",
+			"style": {
+				"text-align": "center"
+			}
+		},
+		{
+			"type": "separator"
+		},
+		{
+			"type": "paragraph",
+			"text": "The grass crunches beneath your feet as you follow behind a man.\nSuddenly, he calls out to you.",
+			"style": {
+				"text-align": "center"
+			}
+		},
+		{
+			"type": "button",
+			"label": "->",
+			"action": "/story/intro/"
+		}
+	]
+}
