@@ -1,0 +1,37 @@
+{
+	"format": "particle",
+	"title": "Go in the Zone",
+	"content": [
+		{
+			"type": "paragraph",
+			"text": "\"Ah!\" He exclaims suddenly, shoving his hand towards the treeline.",
+			"style": {
+				"text-align": "center"
+			}
+		},
+		{
+			"type": "paragraph",
+			"text": "You follow his gaze, and spot the top of a brown, haggard building coming into view.",
+			"style": {
+				"text-align": "center"
+			}
+		},
+        {
+			"type": "paragraph",
+			"text": "\"That's our stop,\" he says with a little too much eagerness. \"Everyone'll love you. Come on.\"",
+			"style": {
+				"text-align": "center"
+			}
+		},
+		{
+			"type": "button",
+			"label": "Follow along.",
+			"action": "/story/zone/intro/2a"
+		},
+		{
+			"type": "button",
+			"label": "I'm not sure about that...",
+			"action": "/story/zone/intro/2b"
+		}
+	]
+}

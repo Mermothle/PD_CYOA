@@ -1,0 +1,32 @@
+{
+	"format": "particle",
+	"title": "Go in the Zone",
+	"content": [
+		{
+			"type": "paragraph",
+			"text": "The man clicks his tongue. \"Adventure, eh?\"",
+			"style": {
+				"text-align": "center"
+			}
+		},
+		{
+			"type": "paragraph",
+			"text": "He thumbs towards the woods. \"Well, plenty of that out here. You'll see.\"",
+			"style": {
+				"text-align": "center"
+			}
+		},
+		{
+			"type": "paragraph",
+			"text": "You hear twigs snap as he keeps walking.",
+			"style": {
+				"text-align": "center"
+			}
+		},
+		{
+			"type": "button",
+			"label": "->",
+			"action": "/story/zone/intro/2"
+		}
+	]
+}

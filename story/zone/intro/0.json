@@ -26,7 +26,7 @@
 		{
 			"type": "button",
 			"label": "->",
-			"action": "/story/intro/1"
+			"action": "/story/zone/intro/1"
 		}
 	]
 }

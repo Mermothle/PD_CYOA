@@ -1,0 +1,41 @@
+{
+	"format": "particle",
+	"title": "Debug Menu",
+	"content": [
+		{
+			"type": "paragraph",
+			"text": "*=== DEBUG ===*",
+			"style": {
+				"text-align": "center",
+				"margin-bottom": 30
+			}
+		},
+		{
+			"type": "paragraph",
+			"text": "Pick up from where you left off with these skips.",
+			"style": {
+				"text-align": "center"
+			}
+		},
+		{
+			"type": "separator"
+		},
+		{
+			"type": "paragraph",
+			"text": "The skips are story-specific. Pick which you want to skip in.",
+			"style": {
+				"text-align": "center"
+			}
+		},
+		{
+			"type": "button",
+			"label": "Zone Skips",
+			"action": "/debug/zone"
+		},
+		{
+			"type": "button",
+			"label": "CaKnight Skips",
+			"action": "/debug/fantasy"
+		}
+	]
+}

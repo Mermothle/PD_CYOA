@@ -1,0 +1,25 @@
+{
+	"format": "particle",
+	"title": "Go in the Zone",
+	"content": [
+		{
+			"type": "paragraph",
+			"text": "A hearty grin splits across the man's weathered face. He seems amused.",
+			"style": {
+				"text-align": "center"
+			}
+		},
+		{
+			"type": "paragraph",
+			"text": "\"So you do. Well, we'll see.\" There's a glint in his eye as he turns back around and keeps going.",
+			"style": {
+				"text-align": "center"
+			}
+		},
+		{
+			"type": "button",
+			"label": "->",
+			"action": "/story/zone/intro/2"
+		}
+	]
+}

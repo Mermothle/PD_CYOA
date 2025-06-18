@@ -1,0 +1,25 @@
+{
+	"format": "particle",
+	"title": "Go in the Zone",
+	"content": [
+		{
+			"type": "paragraph",
+			"text": "The man raises a brow at that.",
+			"style": {
+				"text-align": "center"
+			}
+		},
+		{
+			"type": "paragraph",
+			"text": "\"Oho? Well, aren't we all, eh? Sure you'll find somethin' out here,\" he drawls, continuing his trek.",
+			"style": {
+				"text-align": "center"
+			}
+		},
+		{
+			"type": "button",
+			"label": "->",
+			"action": "/story/zone/intro/2"
+		}
+	]
+}

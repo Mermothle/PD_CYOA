@@ -1,10 +1,10 @@
 {
 	"format": "particle",
-	"title": "Go in the Zone",
+	"title": "Pick your story!",
 	"content": [
 		{
 			"type": "paragraph",
-			"text": "*=== GO IN THE ZONE ===*",
+			"text": "*=== CYOA MINIS ===*",
 			"style": {
 				"text-align": "center",
 				"margin-bottom": 30
@@ -12,7 +12,7 @@
 		},
 		{
 			"type": "paragraph",
-			"text": "This is a basic interactive story for Constellation. Choose your own adventure!",
+			"text": "This is a basic interactive story pack for Constellation. Choose your own adventure!",
 			"style": {
 				"text-align": "center"
 			}
@@ -22,15 +22,33 @@
 		},
 		{
 			"type": "paragraph",
-			"text": "The grass crunches beneath your feet as you follow behind a man.\nSuddenly, he calls out to you.",
+			"text": "The stories are WIP. More will be added in time.",
 			"style": {
 				"text-align": "center"
 			}
 		},
 		{
+			"type": "list",
+			"items": [
+				"*Zone Story:* 5% complete.",
+				"*Fantasy Story:* 0% complete.",
+				"*Debug Skips:* Go to pivotal points in each story."
+			]
+		},
+		{
 			"type": "button",
-			"label": "->",
-			"action": "/story/intro/"
+			"label": "Go in the Zone",
+			"action": "/story/zone/intro/"
+		},
+		{
+			"type": "button",
+			"label": "CaKnight",
+			"action": "/story/fantasy/intro/"
+		},
+		{
+			"type": "button",
+			"label": "Debug Skips",
+			"action": "/debug/"
 		}
 	]
 }

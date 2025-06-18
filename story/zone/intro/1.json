@@ -19,17 +19,17 @@
 		{
 			"type": "button",
 			"label": "Treasure.",
-			"action": "/story/intro/1"
+			"action": "/story/zone/intro/1a"
 		},
 		{
 			"type": "button",
 			"label": "Adventure.",
-			"action": "/story/intro/1"
+			"action": "/story/zone/intro/1b"
 		},
 		{
 			"type": "button",
 			"label": "Your own reasons.",
-			"action": "/story/intro/1"
+			"action": "/story/zone/intro/1c"
 		}
 	]
 }
