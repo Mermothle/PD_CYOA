@@ -1,0 +1,18 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "As you trek behind the man, the rotting building of the cabin comes more into view. It's an almost sickly-looking thing, with damp, rotting boards, but you notice the scent of firewood as you near it.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "->",
+            "action": "/story/zone/introSH/index.json"
+        }
+    ]
+}

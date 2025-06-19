@@ -1,0 +1,18 @@
+{
+    "format": "particle",
+    "title": "",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "He scoffs at you, whipping his head around to face you. \"If you were, you wouldn't be stuck with us. C'mon, no need to look tough.\" He continues walking, grass crunching beneath his boots as he heads towards a rustic-looking building cloaked deep within some trees.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "->",
+            "action": "/story/zone/intro/1"
+        }
+    ]
+}

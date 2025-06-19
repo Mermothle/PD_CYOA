@@ -1,0 +1,18 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "Suddenly, he speaks. \"Ah, we're here. Keep your chin up, everyone's inside.\"",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "->",
+            "action": "/story/zone/introSH/0"
+        }
+    ]
+}

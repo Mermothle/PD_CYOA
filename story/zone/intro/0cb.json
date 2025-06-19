@@ -1,0 +1,18 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "He quirks a brow at you. \"You sure about that? Well, nervous or not, as long as you stay in line and stay sharp, you'll do just fine. Safehouse is just up ahead.\" The safehouse comes into view; a pathetic looking building hidden within the trees, looking worse the closer you both get.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "->",
+            "action": "/story/zone/intro/1"
+        }
+    ]
+}

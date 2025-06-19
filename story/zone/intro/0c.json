@@ -1,0 +1,23 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [
+        {
+            "type": "paragraph",
+            "text": "\"Ha!\" The man laughs, approaching you and clapping you on the back. \"Don't look so scared. Got nerves for your first time on the field?\"",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Nod sheepishly.",
+            "action": "/story/zone/intro/0ca"
+        },
+        {
+            "type": "button",
+            "label": "Insist you're just alert.",
+            "action": "/story/zone/intro/0cb"
+        }
+    ]
+}

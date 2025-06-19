@@ -1,0 +1,18 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "\"Don't worry too much about it. Long as you keep your eyes sharp and follow orders, you'll be fine. You'll be meeting the others at the safehouse soon enough. Look, see.\" He points towards a ramshackle building, slowly emerging from the treeline as you both approach.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "->",
+            "action": "/story/zone/intro/1"
+        }
+    ]
+}

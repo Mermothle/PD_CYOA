@@ -1,0 +1,28 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [
+        {
+            "type": "paragraph",
+            "text": "The man furrows his brow at you. \"Bit of a firebrand, eh? Whatever. Don't need to be friendly to get the job done.\"",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Sigh and shrug your shoulders.",
+            "action": "/story/zone/intro/0ba"
+        },
+        {
+            "type": "button",
+            "label": "Tell him to quit shouting and you'll be friendlier.",
+            "action": "/story/zone/intro/0bb"
+        },
+        {
+            "type": "button",
+            "label": "Maybe he shouldn't be calling you a rookie.",
+            "action": "/story/zone/intro/0bb"
+        }
+    ]
+}

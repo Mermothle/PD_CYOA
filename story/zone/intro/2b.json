@@ -1,0 +1,25 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "\"Don't worry so much about it,\" he cackles, waving a grizzled hand at you as he continues to stump towards the cabin.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "It's a messy thing, drowning in rot and ivy, but the distinctive smell of firewood hits your nose as you get closer.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "->",
+            "action": "/story/zone/introSH/index.json"
+        }
+    ]
+}

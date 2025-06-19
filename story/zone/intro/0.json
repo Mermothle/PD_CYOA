@@ -10,23 +10,19 @@
 			}
 		},
 		{
-			"type": "paragraph",
-			"text": "\"We're almost there. Just a bit more now.\"",
-			"style": {
-				"text-align": "center"
-			}
-		},
-		{
-			"type": "paragraph",
-			"text": "His voice is gruff on your ears.",
-			"style": {
-				"text-align": "center"
-			}
+			"type": "button",
+			"label": "Snap to attention.",
+			"action": "/story/zone/intro/0a"
 		},
 		{
 			"type": "button",
-			"label": "->",
-			"action": "/story/zone/intro/1"
+			"label": "Give him a side-eye.",
+			"action": "/story/zone/intro/0b"
+		},
+		{
+			"type": "button",
+			"label": "Jump on the spot.",
+			"action": "/story/zone/intro/0c"
 		}
 	]
 }

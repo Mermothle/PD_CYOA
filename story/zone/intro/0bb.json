@@ -1,0 +1,18 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "\"No need to get a big head about it,\" he grumbles. \"Whatever. Safehouse isn't too far from here, cool your head by the time we get inside.\" He looks away from you and heads towards a very... unpleasant looking building, one buried within some trees.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "->",
+            "action": "/story/zone/intro/1"
+        }
+    ]
+}

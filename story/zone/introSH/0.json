@@ -1,0 +1,54 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "As you step inside, you're greeted by the shoddy interior, full of slightly-rotted wood and out-of-place furniture. In the corner is a disgruntled looking woman with dark brown hair, and she snaps at the man with you.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "\"You took forever, Kozlov. You take the scenic route on the way here?\" Her cheeks scrunch in displeasure, and Kozlov just gives you a knowing look.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "\"That's just Kasha,\" he shrugs. \"Don't mind her. She's like that to everyone.\"",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "It's not just Kasha in the safehouse; you can briefly see what appears to be a blonde woman in a white coat pass through a nearby side room, not to mention the other dark-haired man picking through various tools on the floor.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Who's that guy?",
+            "action": ""
+        },
+        {
+            "type": "button",
+            "label": "Who was in the other room?",
+            "action": ""
+        },
+        {
+            "type": "button",
+            "label": "Why is it so dingy?",
+            "action": ""
+        },
+        {
+            "type": "button",
+            "label": "Done questioning.",
+            "action": ""
+        }
+    ]
+}

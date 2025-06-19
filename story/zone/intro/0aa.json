@@ -1,0 +1,18 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "He walks you along some side lawn, towards a run-down building cloaked deeper within murky trees. \"We've had enough fresh air for now. Savor it while it lasts, 'cause the safehouse's musty as anything.\"",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "->",
+            "action": "/story/zone/intro/1"
+        }
+    ]
+}

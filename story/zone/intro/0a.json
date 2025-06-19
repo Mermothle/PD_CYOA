@@ -1,0 +1,23 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [
+        {
+            "type": "paragraph",
+            "text": "The man who called out to you gives you a grin. \"That's what I like to see. Come along, rookie.\"",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Follow after him.",
+            "action": "/story/zone/intro/0aa"
+        },
+        {
+            "type": "button",
+            "label": "Insist you're experienced enough.",
+            "action": "/story/zone/intro/0ab"
+        }
+    ]
+}
