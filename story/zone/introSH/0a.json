@@ -1,0 +1,18 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "Kozlov blinks a few times at you, eyes narrowing in confusion before he snaps to attention and realizes who you mean. \"Oh! That's Volkhov. He makes sure our tools are all up to snuff, and doubles as the artifact parser.\"",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Cool.",
+            "action": "/story/zone/introSH/0"
+        }
+    ]
+}

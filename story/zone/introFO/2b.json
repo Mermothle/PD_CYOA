@@ -1,0 +1,18 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "There's a lingering sense of unease in the back of your mind as you follow Kozlov and Kasha towards the Lake. Apparently. it's dangerous. You'll have to be on your best behavior, and hope your companions will be, too...",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "->",
+            "action": ""
+        }
+    ]
+}

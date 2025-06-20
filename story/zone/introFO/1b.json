@@ -1,0 +1,31 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "Kozlov falls a little further behind, falling into step beside you. \"Don't worry about it - I got a few pointers for ya.\"",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Old Fringe",
+            "pre-label": "Wealth comes with familiarity.",
+            "action": "/story/zone/introFO/1ba"
+        },
+        {
+            "type": "button",
+            "label": "The Lake",
+            "pre-label": "Dangers and treasures lie on shore.",
+            "action": "/story/zone/introFO/1bb"
+        },
+        {
+            "type": "button",
+            "label": "The Towers",
+            "pre-label": "New sights in vague watchtowers.",
+            "action": "/story/zone/introFO/1bc"
+        }
+    ]
+}

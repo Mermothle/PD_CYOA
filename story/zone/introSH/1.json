@@ -1,0 +1,46 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "Having dealt with all the questions on your mind, you step aside as Kozlov moves past you to pick his pack up off some dusty couch in the corner.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "\"Now then,\" he clicks his tongue, \"Let's get some action. Kasha, you good to go?\" He spares the dark-haired woman a glance.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "\"Whatever,\" she grunts, hopping off the couch to her feed with a loud thud and wrestling her own pack out from behind the couch.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "Volkhov looks at everyone and gives a plain-old thumbs up. \"Don't have too much fun, guys.\" He's back sticking his nose into strange dinged-up items a moment later.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "You notice the blonde woman - Klava? - smiling and waving from the doorway, but she's gone as quickly as she arrived.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "->",
+            "action": "/story/zone/introSH/2"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "He zips your bag back up. \"Medical supplies, extra rations, the good stuff. Never know how much you'll need out there.\"",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "\"And you *will* need it,\" Kasha grunts, now heading for the door. \"You're both all squishy.\"",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Squishy...?",
+            "action": "/story/zone/introSH/4"
+        }
+    ]
+}

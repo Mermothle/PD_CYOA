@@ -1,0 +1,36 @@
+{
+    "format": "particle",
+    "title": "Changelog",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "*=== Changelog ===*",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "Basic changelog so players can track any updates.\nItems annointed with a ** refer to one of the games.\n**Z for zone, and so on.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "separator"
+        },
+        {
+            "type": "list",
+            "items": [
+                "**Z 6/19/2025 - Completed the introductory sequence.",
+                "6/17/2025 - Reformatted to allow multiple stories.",
+                "6/16/2025 - Pre-alpha. Initial build."
+            ]
+        },
+        {
+            "type": "button",
+            "label": "Back",
+            "action": "/index"
+        }
+    ]
+}

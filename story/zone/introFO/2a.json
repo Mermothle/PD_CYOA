@@ -1,0 +1,18 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "With your course set for the Old Fringe, you keep pace behind Kozlov and Kasha. You're not wholly sure what to expect, other than some old buildings, but ideally your seniors will keep you in check.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "->",
+            "action": ""
+        }
+    ]
+}

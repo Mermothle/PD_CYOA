@@ -1,0 +1,25 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "Kozlov blinks. \"Towers? Surprised you even heard of 'em... don't know much about those old watchtowers myself, but they ought to have something good.\"",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "\"Or a whole lot of deathtraps,\" you hear Kasha grumble, but her back is still to you and Kozlov as she stomps on.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "...Hopefully not?",
+            "action": "/story/zone/introFO/2c"
+        }
+    ]
+}

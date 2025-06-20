@@ -1,0 +1,18 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "Kozlov shrugs. \"Eh. She's not wrong, exactly. C'mon, let's get goin',\" he says, and follows her to the door.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Follow them, again.",
+            "action": "/story/zone/introFO/"
+        }
+    ]
+}

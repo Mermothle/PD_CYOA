@@ -1,0 +1,25 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "He snaps his fingers. \"Towers still aren't too explored. Might as well try to be pioneers about it,\" he declares.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "Kasha gives him a dry look. \"That means we won't know the danger, either. No one knows anything about those watch towers,\" she mutters.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "It'll be fine, probably.",
+            "action": "/story/zone/introFO/2c"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "He chuffs, \"Why touch it up? Not like it's easy to get classier stuff out here, and the old stuff works just as well.\"",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "True...",
+            "action": "/story/zone/introSH/0"
+        }
+    ]
+}

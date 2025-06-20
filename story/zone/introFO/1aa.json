@@ -1,0 +1,25 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "Kozlov nods heartily in agreement. \"Not a bad choice,\" he concedes. \"Those old houses have a lot of things always appearing around 'em.\"",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "Kasha huffs some distance away, \"Just don't get sucked into the void or somethin', I don't want to fish you out.\"",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "I'll... try not to.",
+            "action": "/story/zone/introFO/2a"
+        }
+    ]
+}

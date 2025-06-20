@@ -1,0 +1,25 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "\"The Old Fringe's always a good bet. Plenty of stuff in those old homes,\" he declares.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "\"Plenty to trip on, too,\" Kasha grumbles, but doesn't protest further.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Oh, I see.",
+            "action": "/story/zone/introFO/2a"
+        }
+    ]
+}

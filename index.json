@@ -30,8 +30,7 @@
 		{
 			"type": "list",
 			"items": [
-				"*Zone Story:* 5% complete.",
-				"*Fantasy Story:* 0% complete.",
+				"*Zone Story:* 20% complete.",
 				"*Debug Skips:* Go to pivotal points in each story."
 			]
 		},
@@ -42,13 +41,13 @@
 		},
 		{
 			"type": "button",
-			"label": "CaKnight",
-			"action": "/story/fantasy/intro/"
+			"label": "Debug Skips",
+			"action": "/debug/"
 		},
 		{
 			"type": "button",
-			"label": "Debug Skips",
-			"action": "/debug/"
+			"label": "Changelog",
+			"action": "/changelog"
 		}
 	]
 }

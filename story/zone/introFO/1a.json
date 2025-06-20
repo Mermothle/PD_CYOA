@@ -1,0 +1,31 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "Kozlov beams at you over his shoulder, ignoring the scalding Kasha beside him. \"Well, let's hear 'em, then.\"",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Old Fringe",
+            "pre-label": "Wealth comes with familiarity.",
+            "action": "/story/zone/introFO/1aa"
+        },
+        {
+            "type": "button",
+            "label": "The Lake",
+            "pre-label": "Dangers and treasures lie on shore.",
+            "action": "/story/zone/introFO/1ab"
+        },
+        {
+            "type": "button",
+            "label": "The Towers",
+            "pre-label": "New sights in vague watchtowers.",
+            "action": "/story/zone/introFO/1ac"
+        }
+    ]
+}

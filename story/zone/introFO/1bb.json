@@ -1,0 +1,25 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "Kozlov hesitates a moment, then proposes, \"The Lake's pretty high value, but it's the kinda place where you have to be extra careful.\"",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "\"Wouldn't call that a rookie area,\" Kasha mutters, slapping a stray branch aside.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "We'll be careful...",
+            "action": "/story/zone/introFO/2b"
+        }
+    ]
+}

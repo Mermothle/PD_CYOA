@@ -1,0 +1,25 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "Kozlov quirks a brow at your suggestion, but looks intrigued regardless. \"The Lake, huh. High-value spot, but I hope you don't mind some extra caution.\"",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "Kasha plinks a rock off the trail in front of you, then keeps walking. \"Haven't you heard of the million ways to die there? Gutsy of you.\"",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Uh... thanks?",
+            "action": "/story/zone/introFO/2b"
+        }
+    ]
+}

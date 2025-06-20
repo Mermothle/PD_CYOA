@@ -1,0 +1,25 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "Kasha takes point, and the mild grass around the cabin quickly disperses into trees and shrubbery, which she navigates with practised ease. There's a vague hint of a path, but you can barely tell where it begins and where it ends.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "Kozlov is following close behind, even with his more rugged manner of movement. The man is at least kind enough to spare you a glance over his shoulder and make sure you're still there.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "->",
+            "action": "/story/zone/introFO/0"
+        }
+    ]
+}

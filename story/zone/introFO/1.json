@@ -1,0 +1,23 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "He comes up by her and gives her a gentle shove further along the path. \"Oh, lighten up! Been too long since we've taken an interesting road. I'm sure you've got some interesting ideas, right?\" He looks at you expectantly.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Sort of?",
+            "action": "/story/zone/introFO/1a"
+        },
+        {
+            "type": "button",
+            "label": "You're putting me on the spot...",
+            "action": "/story/zone/introFO/1b"
+        }
+    ]
+}

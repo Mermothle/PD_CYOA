@@ -1,0 +1,32 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "\"Hey,\" Kasha clips suddenly. \"You've got an idea of where we're goin', right?\" She doesn't turn around to look at either of you, but you can hear Kozlov scoff.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "\"We're lettin' our rookie pick,\" he calls, and she whips her head around and gives him a disgruntled look.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "She pauses and is quiet for a long moment, then jabs a finger at him. \"That's stupid.\"",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Uh-oh.",
+            "action": "/story/zone/introFO/1"
+        }
+    ]
+}

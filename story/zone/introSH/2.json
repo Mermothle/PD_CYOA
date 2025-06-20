@@ -1,0 +1,25 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "Kozlov startles you with a clap on the back, and you can spot Kasha hovering behind him with an annoyed grimace.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "\"Got somethin' for you,\" he offers you a lopsided grin, and unzips your bag without asking, shoving a packet of goods inside.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "What's all that?",
+            "action": "/story/zone/introSH/3"
+        }
+    ]
+}

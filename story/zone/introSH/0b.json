@@ -1,0 +1,18 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "Kozlov glances over at side room embedded in the hall. \"Klava. She gets us medical supplies. If you feel something weird, no you don't.\"",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "...Okay?",
+            "action": "/story/zone/introSH/0"
+        }
+    ]
+}

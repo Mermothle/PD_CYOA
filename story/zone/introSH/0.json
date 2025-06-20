@@ -33,22 +33,22 @@
         {
             "type": "button",
             "label": "Who's that guy?",
-            "action": ""
+            "action": "/story/zone/introSH/0a"
         },
         {
             "type": "button",
             "label": "Who was in the other room?",
-            "action": ""
+            "action": "/story/zone/introSH/0b"
         },
         {
             "type": "button",
             "label": "Why is it so dingy?",
-            "action": ""
+            "action": "/story/zone/introSH/0c"
         },
         {
             "type": "button",
             "label": "Done questioning.",
-            "action": ""
+            "action": "/story/zone/introSH/1"
         }
     ]
 }

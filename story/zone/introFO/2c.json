@@ -1,0 +1,18 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "The prospect of making new discoveries is both exciting and a little bit scary, and you have plenty of time to mull that over as you follow your companions. They probably won't let you get killed, but you're not so sure about their safety, either.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "->",
+            "action": ""
+        }
+    ]
+}

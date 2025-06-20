@@ -1,0 +1,18 @@
+{
+    "format": "particle",
+    "title": "Debug Menu",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "There are no skips yet.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Back",
+            "action": "/debug/"
+        }
+    ]
+}

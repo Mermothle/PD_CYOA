@@ -1,0 +1,51 @@
+{
+    "format": "particle",
+    "title": "Debug Menu",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "You may skip to get back to where you were faster, or see diverging adventures.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Safehouse Arrival",
+            "action": "/story/zone/introSH/"
+        },
+        {
+            "type": "button",
+            "label": "Left Safehouse",
+            "action": "/story/zone/introFO/"
+        },
+        {
+            "type": "button",
+            "label": "Pick Adventure",
+            "action": "/story/zone/introFO/1"
+        },
+        {
+            "type": "button",
+            "label": "Go to Old Fringe",
+            "pre-label": "** Uninplemented",
+            "action": "/story/zone/introFO/2a"
+        },
+        {
+            "type": "button",
+            "label": "Go to the Lake",
+            "pre-label": "** Uninplemented",
+            "action": "/story/zone/introFO/2b"
+        },
+        {
+            "type": "button",
+            "label": "Go to the Towers",
+            "pre-label": "** Uninplemented",
+            "action": "/story/zone/introFO/2c"
+        },
+        {
+            "type": "button",
+            "label": "Back",
+            "action": "/debug/"
+        }
+    ]
+}

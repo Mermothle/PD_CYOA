@@ -34,8 +34,8 @@
 		},
 		{
 			"type": "button",
-			"label": "CaKnight Skips",
-			"action": "/debug/fantasy"
+			"label": "Back",
+			"action": "/index"
 		}
 	]
 }
