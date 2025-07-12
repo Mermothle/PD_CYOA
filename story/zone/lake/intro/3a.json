@@ -1,0 +1,32 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "Having taken it all in, you look to Kozlov again.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "He seems to be looking around himself, but grins at you when he notices you staring. \"Pretty place, yeah? She's a beauty. Dangerous one, but still a beauty.\"",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "He thumbs towards the lake itself. \"You get to pick, rookie. Any spots stick out to ya?\"",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Well...",
+            "action": "/story/zone/lake/intro/4"
+        }
+    ]
+}

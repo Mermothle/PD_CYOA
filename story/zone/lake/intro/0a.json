@@ -1,0 +1,25 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "Kasha talks the loudest. She doesn't care about being quiet, apparently. \"The path looks like trash now. You think people stopped coming?\"",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "\"Guess it's not surprising,\" Kozlov shrugs his shoulders. \"Everyone that dies out here is one less to teach the next round of kids.\"",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Hey...",
+            "action": "/story/zone/lake/intro/0b"
+        }
+    ]
+}

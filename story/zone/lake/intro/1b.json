@@ -1,0 +1,25 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "Kozlov chuffs, seeming a little amused. \"Right. Well, listen here. The lake'll just draw you in - mentally and physically, if you get too close. The sky can sometimes get, eh, reflective, and if you focus on it, you won't be able to stop. Seen people walk right in,\" he mutters, his cheerful explanation ending on a dour note.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "\"You're not getting out if you sink too deep,\" Kasha warns, shoulders sagging somewhat. \"The mud's like cement at a point. No stopping it.\"",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "...Okay?",
+            "action": "/story/zone/lake/intro/2"
+        }
+    ]
+}

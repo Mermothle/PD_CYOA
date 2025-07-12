@@ -1,0 +1,25 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "Kozlov chuckles at the quick response. \"Sure, sure. Don't go getting sucked in, now. We'll pull you out if you get into any trouble, but let's not tempt fate, eh?\"",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "Kasha exhales harshly from further ahead. \"We'll try. If you get in too deep, no promises.\"",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Thanks...",
+            "action": "/story/zone/lake/intro/1b"
+        }
+    ]
+}

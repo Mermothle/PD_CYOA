@@ -1,0 +1,33 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "Kozlov brings a hand up to his grizzled chin. \"Dangerous, but a good observation. Things just sort of... appear, on the shore. Bound to be some good ones. Just don't look at the water.\"",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "\"If you do, it's your funeral,\" Kasha grunts, and keeps her eyes downcast as she approaches the shoreline, water lapping at her heels as it ebbs and flows.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "You and Kozlov are close behind, both keeping your heads down.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "You'll be careful.",
+            "pre-label": "Not yet implemented. Do not click.",
+            "action": "/story/zone/lake/shore/0"
+        }
+    ]
+}

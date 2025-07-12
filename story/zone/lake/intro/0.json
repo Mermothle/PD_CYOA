@@ -1,0 +1,32 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "As you continue your trek, you notice a certain heaviness to the air, and a dampness to the soil beneath your boots.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "It certainly smells wet. The way your feet sink into the growing mud makes it more difficult to keep up with your companions.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "Kasha and Kozlov seem to be doing just fine. You hear them chatting about something up ahead.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Listen in.",
+            "action": "/story/zone/lake/intro/0a"
+        }
+    ]
+}

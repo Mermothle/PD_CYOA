@@ -1,0 +1,46 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "\"Alright!\" He barks, spinning on his heel to face you. \"We're here.\" You notice Kasha also looking back at you.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "Looking beyond her and Kozlov, you can see glinting waters in the distance. It's beautiful, even if you're only catching glimpses.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "\"Quit looking at it,\" Kasha snips at you with a glare, catching where your eye lays. \"Look at the ground or something, not the water.\"",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "You quickly glance away, if only to avoid her ire.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "Kozlov grunts at her, \"Oh, let 'em live. We've got to decide where to look, now that we're here. C'mon now.\" He turns back around, eyes glued to the shore as he beckons for you to follow.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Take a look around.",
+            "action": "/story/zone/lake/intro/3"
+        }
+    ]
+}

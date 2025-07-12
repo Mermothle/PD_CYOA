@@ -1,0 +1,25 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "As much as they quarrel, Kozlov doesn't seem bothered, and Kasha doesn't actually seem as annoyed as she lets on. You wonder how they ended up in the same group.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "The trek continues for what seems like forever, but was probably only a few droning minutes; Kozlov shouting snaps you out of it.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "->",
+            "action": "/story/zone/lake/intro/2b"
+        }
+    ]
+}

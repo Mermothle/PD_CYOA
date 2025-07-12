@@ -1,0 +1,33 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "Kozlov glances over to the buildings you point out, and Kasha follows suit. \"Huh. Don't remember those being there. Things appear and disappear all the time 'round here, though. Won't hurt to give them a look.\"",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "Kasha shrugs her pack more firmly over her shoulder, and is the first to start walking towards them. \"Yeah, alright. Let's see what's inside. Watch the floorboards, they might be bad.\"",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "Kozlov follows her along without another word, and you follow suit.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Hopefully it's fine?",
+            "pre-label": "Not yet implemented. Do not click.",
+            "action": "/story/zone/lake/sky/0"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "It's a little intimidating to be put on the spot again, but you mull over what you observed, and make your decision.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Let's try those buildings down by the left.",
+            "action": "/story/zone/lake/intro/4a"
+        },
+        {
+            "type": "button",
+            "label": "There's a lot of washed-up items on the shore.",
+            "action": "/story/zone/lake/intro/4b"
+        },
+        {
+            "type": "button",
+            "label": "I saw some shiny things in the treeline.",
+            "action": "/story/zone/lake/intro/4c"
+        }
+    ]
+}

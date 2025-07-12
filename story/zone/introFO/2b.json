@@ -12,7 +12,7 @@
         {
             "type": "button",
             "label": "->",
-            "action": ""
+            "action": "/story/zone/lake/intro/0"
         }
     ]
 }

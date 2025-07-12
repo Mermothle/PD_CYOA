@@ -1,0 +1,23 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "He then raises his brows at you. \"You do remember why, don't'cha?\"",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Of course you do!",
+            "action": "/story/zone/lake/intro/1a"
+        },
+        {
+            "type": "button",
+            "label": "Well, mostly...?",
+            "action": "/story/zone/lake/intro/1b"
+        }
+    ]
+}

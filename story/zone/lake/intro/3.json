@@ -1,0 +1,39 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "The lake itself is more dingy up close. The water almost is sparkly, from the few glimpses you catch before staring back at your boots.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "Along the lefthand side of the shore, you can see old, dilapidated buildings, rotting and crushed under time's weight.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "Looking to the righthand side, you see glimpses of glimmering... objects, maybe, in the trees, glinting off the sunlight.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "The shore itself also isn't barren of items. You can see strange objects and lumps in the dirt and sediment.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "I'm done looking.",
+            "action": "/story/zone/lake/intro/3a"
+        }
+    ]
+}

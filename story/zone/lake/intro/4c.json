@@ -1,0 +1,33 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "Kozlov whips his head around to look at the trees. \"...Did ya? Wouldn't have thought there's be artifacts that far from the shore... might be a lot safer if there is, though.\"",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "You see Kasha already walking towards the treeline. \"Less time we spend near the lake, the better,\" she seems to agree.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "Kozlov has to hurry after her, and you jog along close behind. You're not sure how she walks so fast without getting tired.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Safer is better. You hope.",
+            "pre-label": "Not yet implemented. Do not click.",
+            "action": "/story/zone/lake/treeline/0"
+        }
+    ]
+}

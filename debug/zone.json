@@ -33,7 +33,7 @@
         {
             "type": "button",
             "label": "Go to the Lake",
-            "pre-label": "** Uninplemented",
+            "pre-label": "** Introduction Only",
             "action": "/story/zone/introFO/2b"
         },
         {
@@ -41,6 +41,25 @@
             "label": "Go to the Towers",
             "pre-label": "** Uninplemented",
             "action": "/story/zone/introFO/2c"
+        },
+        {
+            "type": "separator"
+        },
+        {
+            "type": "paragraph",
+            "text": "Skip to specific areas of the playable locations.",
+            "style": {
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "Skip to to the Lake's diverging paths.",
+            "pre-label": "** All Unimplemented",
+            "action": "/story/zone/lake/intro/4"
+        },
+        {
+            "type": "separator"
         },
         {
             "type": "button",

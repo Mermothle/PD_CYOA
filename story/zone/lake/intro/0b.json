@@ -1,0 +1,25 @@
+{
+    "format": "particle",
+    "title": "Go in the Zone",
+    "content": [		
+        {
+            "type": "paragraph",
+            "text": "You squint. You're not a kid. Either way, you're quick to press your mouth into a thin line and act natural as Kozlov turns around to face you.",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "paragraph",
+            "text": "If he noticed your distaste, he doesn't show it. \"Remember - don't look at the water too long, 'n don't look at the sky too much either.\"",
+            "style": { 
+                "text-align": "center"
+            }
+        },
+        {
+            "type": "button",
+            "label": "...Right.",
+            "action": "/story/zone/lake/intro/1"
+        }
+    ]
+}
